@@ -10,6 +10,6 @@ Pakcages:
 - dwl
     + Source: https://codeberg.org/dwl/dwl
 - kat 
-    + Source: https://github.com/night0721/kat
+    + Source: https://github.com/Theldus/kat
 - lcc
     + Source: https://github.com/night0721/lcc
