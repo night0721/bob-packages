@@ -15,8 +15,12 @@ Pakcages:
     + Source: https://codeberg.org/Theldus/kat
 - lcc
     + Source: https://codeberg.org/night0721/lcc
+- luft
+    + Source: https://codeberg.org/bogdan-the-great/luft
 - mew
     + Source: https://codeberg.org/sewn/mew
+- nsh 
+    + Source: https://codeberg.org/night0721/nsh
 - ssu
     + Source: https://github.com/illiliti/ssu
 - tcc
